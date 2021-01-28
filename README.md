@@ -1,7 +1,9 @@
 ### Hi there 👋
 Have 8 year experience in Credit Analis and SME Banking is make me credit skill like geek in Industrial Banking, but another passion in Coding and Programming essepecialy in web developer make me thirsty with web progressive technology that in the future will aplicated in Industrial Banking and Finance Technology. 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennyrwa&repo=dennyrwa.github.io)](https://github.com/dennyrwa/dennyrwa.github.io)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennyrwa)](https://github.com/dennyrwa/dennyrwa)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennyrwa&repo=dennyrwa.github.io)](https://github.com/dennyrwa/dennyrwa)
 
 
 <!--
