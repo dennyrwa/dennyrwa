@@ -5,6 +5,8 @@ Have 8 year experience in Credit Analis and SME Banking is make me credit skill 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennyrwa&repo=blogger-blank-template)](https://github.com/dennyrwa/blogger-blank-template)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennyrwa&layout=compact)](https://github.com/dennyrwa/blogger-blank-template)
+
 
 ## :sparkling_heart: Support the project
 
