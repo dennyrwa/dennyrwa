@@ -3,7 +3,7 @@ Have 8 year experience in Credit Analis and SME Banking is make me credit skill 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennyrwa&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennyrwa)](https://github.com/dennyrwa/blogger-blank-template)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennyrwa)]
 
 
 ## :sparkling_heart: Support the project
