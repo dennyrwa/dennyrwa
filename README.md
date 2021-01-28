@@ -1,7 +1,7 @@
 ### Halo Gaes ...  👋
 Have 8 year experience in Credit Analis and SME Banking is make me credit skill like geek in Industrial Banking, but another passion in Coding and Programming essepecialy in web developer make me thirsty with web progressive technology that in the future will aplicated in Industrial Banking and Finance Technology. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=dennyrwa&show_icons=true&theme=radical)](https://github.com/dennyrwa/dennyrwa)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennyrwa&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennyrwa)](https://github.com/dennyrwa/blogger-blank-template)
 
