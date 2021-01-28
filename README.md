@@ -3,7 +3,7 @@ Have 8 year experience in Credit Analis and SME Banking is make me credit skill 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=dennyrwa&show_icons=true&theme=radical)](https://github.com/dennyrwa/dennyrwa)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennyrwa&repo=blogger-blank-template)](https://github.com/dennyrwa/blogger-blank-template)
 
 
 ## :sparkling_heart: Support the project
@@ -20,8 +20,6 @@ However, if you are using this project and happy with it or just want to encoura
 Thanks! :heart:
 
 Contributions are welcome! <3
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennyrwa&repo=blogger-blank-template)](https://github.com/dennyrwa/blogger-blank-template)
 
 Made with :heart: and JavaScript.
 
