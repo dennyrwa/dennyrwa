@@ -1,5 +1,5 @@
 ### Halo Gaes ...  👋
-Have 8 year experience in Credit Analis and SME Banking is make me credit skill like geek in Industrial Banking, but another passion in Coding and Programming essepecialy in web developer make me thirsty with web progressive technology that in the future will aplicated in Industrial Banking and Finance Technology. 
+Have 8 year experience in Credit Analis and SME in Sharia Banking is make my credit skill like geek in Industrial Banking, other passion like in Coding and Programming essepecialy in web developer make me thirsty with web progressive technology that in the future will aplicated in Industrial Banking and Finance Technology, and because I have a sharia economic education background, I am responsible for sharing my knowledge and experience with others
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennyrwa&show_icons=true&theme=radical)
 
@@ -22,7 +22,7 @@ Thanks! :heart:
 
 Contributions are welcome! <3
 
-Made with :heart: and JavaScript.
+Made with :heart:
 
 
 
