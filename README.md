@@ -9,7 +9,7 @@ Welcome to my GitHub! I am an academic and banking professional with a deep pass
 
 *   🎓 **Academia:** Permanent Lecturer in the Islamic Banking Study Program at Universitas Nahdlatul Ulama Blitar, Indonesia. 
 *   🏢 **Industry Experience:** Over a decade of professional experience in the banking sector (Conventional and Islamic Banking), alongside my current role as CTO at [klikada.com](https://klikada.com).
-*   📋 **Certification:** Certified BNSP Competency Assessor for Bank Front Office Services.
+*   📋 **Certification:** Certified BNSP Competency Assessor.
 *   ☕ **Personal:** Often found writing research papers or coding late into the night, accompanied by cookies and a sugar-free Hot Americano with fruity notes.
 
 ### 🔬 Research & Academic Interests
@@ -39,7 +39,7 @@ I am always open to research collaborations, academic discussions, and exploring
 *   📧 **Email:** [drwashari@unublitar.ac.id](mailto:drwashari@unublitar.ac.id)
 *   💼 **LinkedIn:** [H. Denny Rakhmad Widi Ashari](https://linkedin.com/in/dennyrwa)
 *   🎓 **Google Scholar:** [My Publications](https://scholar.google.com/citations?user=36C13s4AAAAJ)
-*   📚 **SINTA Profile:** [SINTA ID: YOUR_ID](https://sinta.kemdiktisaintek.go.id/authors/profile/6802917)
+*   📚 **SINTA Profile:** [SINTA ID: 6802917](https://sinta.kemdiktisaintek.go.id/authors/profile/6802917)
 
 ---
 ⭐️ *From teaching in the classroom to building on the web.*
