@@ -1,43 +1,45 @@
-### Halo Gaes ...  👋
-Have 8 year experience in Credit Analis and SME in Sharia Banking is make my credit skill like geek in Industrial Banking, other passion like in Coding and Programming essepecialy in web developer make me thirsty with web progressive technology that in the future will aplicated in Industrial Banking and Finance Technology, and because I have a sharia economic education background, I am responsible for sharing my knowledge and experience with others
+# Hi there, I'm H. Denny Rakhmad Widi Ashari, M.E. 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennyrwa&show_icons=true&theme=radical)
+**Lecturer | Researcher | | BNSP Certified Assessor | Technology Enthusiast**  
+*Bridging Islamic Finance, Operational Management, and Digital Technology.*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennyrwa)
+Welcome to my GitHub! I am an academic and banking professional with a deep passion for digital transformation. My work explores how technology and web-based solutions can optimize Islamic banking, operational management, education, and knowledge sharing. 
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dennyrwa)
+### 👨‍💻 About Me
 
-## :sparkling_heart: Support the project
+*   🎓 **Academia:** Permanent Lecturer in the Islamic Banking Study Program at Universitas Nahdlatul Ulama Blitar, Indonesia. 
+*   🏢 **Industry Experience:** Over a decade of professional experience in the banking sector (Conventional and Islamic Banking), alongside my current role as CTO at [klikada.com](https://klikada.com).
+*   📋 **Certification:** Certified BNSP Competency Assessor for Bank Front Office Services.
+*   ☕ **Personal:** Often found writing research papers or coding late into the night, accompanied by cookies and a sugar-free Hot Americano with fruity notes.
 
-I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
-this takes time. You can use this service for free.
+### 🔬 Research & Academic Interests
 
-However, if you are using this project and happy with it or just want to encourage me to continue creating stuff, there are few ways you can do it :-
+My academic research and publications focus heavily on the intersection of finance and operational efficiency:
+*   **Operational Management:** Process efficiency, service excellence, and operational risk.
+*   **Islamic Finance & Banking:** Islamic financial institutions and economic sustainability (SDGs).
+*   **Digital Transformation:** FinTech integration and technology-enabled education.
 
-- Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
-- Starring and sharing the project :rocket:
-- [![paypal.me/murahonline](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/murahonline) - You can make one-time donations via PayPal. I'll probably buy a coffee :coffee: or tea :tea: .
+### 💻 Technology & Development
 
-Thanks! :heart:
+I actively engage with web technologies to build digital products and academic solutions. My areas of interest include:
+*   **Core:** Web Development, Programming, Web Applications.
+*   **Exploration:** Artificial Intelligence in Education, FinTech, EdTech, and Open Source collaboration.
 
-Contributions are welcome! <3
+### 🛠️ Tech Stack & Tools
 
-Made with :heart:
+While my primary domain is academic research and banking operations, I utilize various tools for digital product development, web infrastructure management, and data analysis:
 
+*   **Development & Infrastructure:** Domain Management, Hosting, Web Frameworks
+*   **Academic Tools:** NVivo, Structural Equation Modeling software, AI-assisted research tools
 
+### 🤝 Let's Connect
 
+I am always open to research collaborations, academic discussions, and exploring digital product partnerships.
 
-<!--
-**dennyrwa/dennyrwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*   📧 **Email:** [drwashari@unublitar.ac.id](mailto:drwashari@unublitar.ac.id)
+*   💼 **LinkedIn:** [H. Denny Rakhmad Widi Ashari](https://linkedin.com/in/dennyrwa)
+*   🎓 **Google Scholar:** [My Publications](https://scholar.google.com/citations?user=36C13s4AAAAJ)
+*   📚 **SINTA Profile:** [SINTA ID: YOUR_ID](https://sinta.kemdiktisaintek.go.id/authors/profile/6802917)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Have 8 year experience in Credit Analis and SME Banking is make me credit skill like geek in Industrial Banking, but another passion in Coding and Programming essepecialy in web developer make me thirsty with web progressive technology that in the future will aplicated in Industrial Banking and Finance Technology. 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐️ *From teaching in the classroom to building on the web.*
